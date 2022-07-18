@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67870131939",
+    "project_id": "android-firebase-daf72",
+    "storage_bucket": "android-firebase-daf72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67870131939:android:b5033f5258de4ad2d627d6",
+        "android_client_info": {
+          "package_name": "br.com.zup.androidfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67870131939-u0fa7l8bgu27b7pdm4be9hhgg42365bc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3pSAlZRevUiHRCmg1xmZzyPXBoNsy0KM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67870131939-u0fa7l8bgu27b7pdm4be9hhgg42365bc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
